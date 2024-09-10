@@ -1,0 +1,140 @@
+.container{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    margin: 5px;
+    
+
+}
+
+
+.letters{
+    background-color: aqua;
+    text-align: center;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+
+}
+
+
+.letters2{
+    background-color: burlywood;
+    text-align: center;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+
+}
+
+
+.letters3{
+    background-color: brown;
+    text-align: center;
+    flex-direction: row-reverse;
+    justify-content: end;
+    align-items: start;
+}
+
+
+.alphabets{
+    font-size: 2rem;
+    background-color: #deb887;
+    color: white;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+.numbers1{
+    background-color: cornflowerblue;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 350px;
+    bottom: 910px;
+}
+
+
+
+
+.numbers2{
+    background-color: orangered;
+    flex-direction: column-reverse;
+    justify-content: end;
+    align-items: center;
+    position: relative;
+    left: 350px;
+    bottom: 910px;
+}
+
+
+.numbers3{
+    background-color: darkslateblue;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    position: relative;
+    left: 350px;
+    bottom:910px;
+}
+
+
+
+.numbericals{
+    background-color: deeppink;
+    color: azure;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+
+}
+
+
+.capitalletters1{
+    background-color: darkorange;
+    flex-direction: column;
+    position:relative;
+    left: 700px;
+    bottom: 1820px;
+}
+
+
+
+.capitalletters2{
+    background-color:darkorange;
+    flex-direction: row-reverse;
+    justify-content: end;
+    align-items: center;
+    position: relative;
+    left: 700px;
+    bottom: 1820px;
+
+}
+
+
+.capitalletters3{
+    background-color: darkorange;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    position: relative;
+    left: 700px;
+    bottom: 1820px;
+}
+
+
+.capitalletters{
+    font-size: 2rem;
+    background-color: chartreuse;
+    color: aliceblue;
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
